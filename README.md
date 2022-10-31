@@ -68,12 +68,12 @@ python trainer.py
 
 <p align="middle">
   <figure>
-    <img src="example/pushkin.png" width=350 />
+    <img src="example/pushkin.png" width=250 />
     <figcaption>Зимнее утро, А.С. Пушкин</figcaption>
   </figure>
   
   <figure>
-    <img src="example/esenin.png" width=350 />
+    <img src="example/esenin.png" width=250 />
     <figcaption>Черный человек, С.А. Есенин</figcaption>
   </figure>
 </p>
