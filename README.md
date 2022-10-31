@@ -76,6 +76,12 @@ python trainer.py
     <figcaption>Черный человек, С.А. Есенин</figcaption>
 </figure>
 </br>
+</br>
+<figure>
+    <img src="example/bulgacov.png" width=250 />
+    <figcaption>Первая глава романа "Мастер и Маргарита", М.А.Булгаков </figcaption>
+</figure>
+</br>
 
 Для проверки работы системы запустите скрипт 
 ```
